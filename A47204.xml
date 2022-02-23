@@ -1,0 +1,320 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The devils last legacy, or, A round-headed ironmonger made executor to Pluto wherein is shewed the discent of the Round-heads, as also the Round-heads great desire of a crown and to sway a scepter, although it be but Pluto his crown and scepter / composed by W.K. ...</title>
+            <author>W. K.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A47204</idno>
+            <idno type="STC">Wing K23A</idno>
+            <idno type="STC">ESTC R41028</idno>
+            <idno type="EEBO-CITATION">19577160</idno>
+            <idno type="OCLC">ocm 19577160</idno>
+            <idno type="VID">109142</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A47204)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 109142)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1691:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The devils last legacy, or, A round-headed ironmonger made executor to Pluto wherein is shewed the discent of the Round-heads, as also the Round-heads great desire of a crown and to sway a scepter, although it be but Pluto his crown and scepter / composed by W.K. ...</title>
+                  <author>W. K.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London printed:</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: slightly faded.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Roundheads --  Controversial literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:109142:1" rendition="simple:additions"/>
+            <p>THE DEVILS LAST LEGACY: OR, A Round-headed Ironmonger, made Executor to <hi>Pluto.</hi>
+            </p>
+            <p>Wherein is ſhewed, The Diſcent of the Round-heads.</p>
+            <p>AS ALSO, The Round-heads great deſire of a Crown, and to ſway a Scepter, although it be but <hi>Pluto</hi> his Crown and Scepter.</p>
+            <p>
+               <hi>Compoſed by</hi> W. K. <hi>firſt a Turke, and now turned Roundhead.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed <hi>Anno Domini,</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:109142:2"/>
+            <pb facs="tcp:109142:2"/>
+            <head>The <hi>Devils</hi> laſt Legacy:</head>
+            <sp>
+               <speaker>Pluto,</speaker>
+               <p>ALL haile my deare Adopted Sonne, thou alone art be that is my onely joy and hope, at whoſe ſight my ſoule is filled with fatneſſe, and the pleaſure I take in thee runneth like to a Julop in my veines<g ref="char:punc">▪</g> come on brave ſoule, be couragious, for this I know, thy impudence it is ſo great, that the whole World is not able to out-face; lea<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e cloſe to me, and I will be as willing to entice, as thou to follow; leave me not, for then I ſhall not know to whom to leave my King<g ref="char:EOLhyphen"/>dome and immortall Scepter. Thou art the Heire and only he, be faithfull to my Kingdome, bend neither one way nor other, end as thou haſt begun, and none ſhall more reward than I: my youngeſt Sonne <hi>Amimius</hi> hath quite left me, his too much yeelding made him fall off; goe on as thou haſt begun, and I will reward thee.
+<q>
+                     <l>Both my Scepter and my Diodem,</l>
+                     <l>I leave to th' Rounheads, and to none but them.</l>
+                  </q>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Roundhead.</speaker>
+               <p>Great King and Prince of darkeneſſe, what<g ref="char:EOLhyphen"/>ſoever thou ſhalt command, no ſooner ſpoke but done, I am as ready for to doe, as you to ſpeak, and you not ſuller of en<g ref="char:EOLhyphen"/>ticements, but I twice as full of actions, yet fuller of Words, perhaps it may ſeem difficult to your underſtanding, but thus to doe good, I ſay much, but doe little, for I never in all my life knew how to doe good; I am the Heire, and delight to overtop men in wickedneſſe, I am preſently deſperate if I ſee any more wicked then I, yet cunning to the World, beare a faire ſhow, and have the Devill Printed in my Heart, and ſtrive to be the Prince of darkeneſſe Sonne: it is the height
+<pb facs="tcp:109142:3"/>of my ambition to get his Crowne, and though all the world ſhould bid farewell to <hi>Pluto</hi> and his Pallace, and ſound a re<g ref="char:EOLhyphen"/>treat from his damnable deſignes, I would ſtand as faſt as Mountaines.
+<q>
+                     <l>My ſeates to ſhew, who can be at all fearefull,</l>
+                     <l>To whom Grand <hi>Pluto</hi> ſaies, my Son be cheerfull.</l>
+                  </q>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pluto.</speaker>
+               <p>Brave reſolution Son, but in the way take ſome of my damnable devices, and what ever thou doſt here on Earth, ſhall preſently in my black pallace be innacted for a Statute: thou haſt performed the duty of a Son in execu<g ref="char:EOLhyphen"/>ting my decrees that I left with you at the laſt Conventicles, where I wiſh I had not been with you, for I think I have got my laſt, from a Cobler, who in villany exceeded even his Fa<g ref="char:EOLhyphen"/>ther great <hi>Pluto.</hi> I having nor long life, enact thee overſeer and chiefeſt Executor of my laſt Will and Teſtament, doe what in it is commanded, and I will in one houre bring thee to my Acaronticall Pallace, where nothing ſhall be too much for him that acknowledgeth me, hot ſcalding Lead, dear Son, ſhall be thy Nactar, thou ſhalt quaffe off whole boules of teare, to thy ſecconders, each ſence with a greedy appe<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ite ſhall have its fill, and the whole Man ſhall taſte my beſt plea<g ref="char:EOLhyphen"/>ſures, Muſick thou ſhalt delight in much and heare a quire of Cerberuſes and the Syrens of Hell;
+<q>
+                     <l>In this performance have but <hi>Argus</hi> eyes,</l>
+                     <l>For Muſick, black zantes, and the Stigian cries.</l>
+                  </q>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Roundhead.</speaker>
+               <p>Ever honoured Prince, if a Son may have the permiſſion and boldneſſe to ſpeak to a Farther, let what deſigne from you be ſpoken, my power in your ſervice ex<g ref="char:EOLhyphen"/>tends it ſelfe ſo far that I will effect.</p>
+               <q>
+                  <l>And think it done, what ever you command,</l>
+                  <l>I'le perpetrate the thing I take in hand.</l>
+               </q>
+            </sp>
+            <sp>
+               <pb facs="tcp:109142:3"/>
+               <speaker>Pluto.</speaker>
+               <p>Upon my death-bed Son, I enjoyne thee that thou ſeeſt my will compleatly performed, let not a Biſhop in the Land have power, neither let the Churches ſtand, pull down all and aboliſh the light, that we may live in darkneſſe, a tub is ſufficient for any one to Preach in: I would have my king<g ref="char:EOLhyphen"/>dome flouriſh that it may be ſaid, tis <hi>Pluto's</hi> Kingdome, that is the chiefeſt Throne. Thou art an Ironmonger, and though thou haſt broke here, I have Chaines and old Iron for to ſet thee up again; thou haſt almoſt quit thy ſelfe, witneſſe thy laſt Sermon of <hi>Toby an<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> his Dog,</hi> and the <hi>Tale in a Tub:</hi> To ch<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nge a trade it is no <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>me, from an Ironmonger to a Coo<g ref="char:EOLhyphen"/>p<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r, <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d the b<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>d, for if t<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y ze<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>le ſhould ſtrike the bot<g ref="char:EOLhyphen"/>tome out, then mi<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> thou exerciſe a faculty and turne C<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oper, Cob<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er, and Tinker, I reach thee a way to thrive; ſome of thy Brethren are horned heads as well as <hi>Roundheads,</hi> turn, Grafier and make one Branch two, that our Sect may the better be noted;
+<q>
+                     <l>With Fa<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>aliſts, all things are lawfull Son,</l>
+                     <l>
+                        <gap reason="illegible" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> 
+                        <hi>Round-<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ead</hi> what thou haſt begun.</l>
+                  </q>
+               </p>
+               <p>
+                  <hi>Rou<gap reason="illegible" extent="6 letters">
+                        <desc>••••••</desc>
+                     </gap>
+                  </hi> I will <gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>avour to the utmoſt, dread Sove<g ref="char:EOLhyphen"/>raigne, <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> thing by you commanded, and though I be cract in trade, I will not neglect your affaires, and be diſcou<g ref="char:EOLhyphen"/>raged in your occaſions; I will alſo crack my braine before I will leave unperfected, what you command me.</p>
+               <q>
+                  <l>Some call me little-Wit, but tis no evill,</l>
+                  <l>For I have ſpent it all, to pleaſe the Devill.</l>
+               </q>
+            </sp>
+            <sp>
+               <speaker>Pluto.</speaker>
+               <p>This is my Will, deare Son, the firſt thing ſpe<g ref="char:EOLhyphen"/>cified is this:
+<list>
+                     <item>I leave one hundred pound <hi>per Annum,</hi> for our Conventicles.</item>
+                     <item>2. I leave my Braines, Head, and Hornes to all the reſt of
+<pb facs="tcp:109142:4"/>our Brethren, for wickedneſſe and that which is naught they want not I am ſure.</item>
+                     <item>3 And thirdly, I leave my Scepter and Kingdome to thee, and onely thee, deare Son: I cannot live, the Doctor ſpecified ſo much to me the other day, but doe theſe things and I will helpe thee at all times, do any thing, nothing ſhall hinder thy courſe to my blacke Pallace, therefore diſturbe me not, but goe about it, and I will betake me to my more ſerious conſideratious.</item>
+                  </list>
+               </p>
+               <q>
+                  <l>I am a dying thus to him I ſay,</l>
+                  <l>But for to puniſh, <hi>Round-heads</hi> live alway,</l>
+                  <l>And this alone ſhall be my Round-head than</l>
+                  <l>Which is a Browniſt and a Knave,</l>
+                  <l>But ſeemes an honeſt Man.</l>
+               </q>
+            </sp>
+         </div>
+         <div type="speech">
+            <head>An Oration of the Round-head, a crackt Ironmonger, new made Executor to the Devill.</head>
+            <sp>
+               <speaker>Roundhead,</speaker>
+               <p>BRethren, it is the fortune of Knaves and Fooles to have the beſt lucke: I make no queſtion but it is well known to you all, that our Father <hi>Pluto</hi> hath given over trading, and hath made me ſuperviſor of his laſt Will and Teſtament; tis a fortune beyond the Moone, and though I be both Knave and Foole, yst I thought the Proverbe would have croſt it ſelfe in me; and ſeeing I am ſo choſen and predeſtinated, I will have an eye to all his entreaties, and execute the part of an adopted Son; he hath given me charge over your <hi>cum cu<g ref="char:EOLhyphen"/>ra animarum,</hi> therefore deare Siſters and Brethren, I muſt performe the part of the Devils Viccar and Curate of Hell,
+<pb facs="tcp:109142:4"/>therefore lets follow him, and our Service-Clarke ſet the Song.</p>
+            </sp>
+            <sp>
+               <speaker>Clarke,</speaker>
+               <p>Lets ſing this Song to the tune of <hi>Old Sir Symon the King;</hi> 'tis a New Dittie, el<g ref="char:EOLhyphen"/>levate you voyces.</p>
+            </sp>
+            <lg>
+               <l>GRand <hi>Pluto</hi> he is dead,</l>
+               <l>Lets ſing in this very Day,</l>
+               <l>That he hath left his Throne</l>
+               <l>
+                  <g ref="char:V">Ʋ</g>nto the <hi>Round-heads</hi> ſway.</l>
+               <l>And Old Sir <hi>Symon</hi> the King,</l>
+               <l>And Old Sir <hi>Symon</hi> the King,</l>
+               <l>We'll have a thred-bare Coate, and a mamſey Noſe,</l>
+               <l>Sing hey ding ding a ding ding.</l>
+            </lg>
+            <lg>
+               <l>The Ironmonger Rules,</l>
+               <l>The Cobler alſo Preaches,</l>
+               <l>The Tinker he Cornutes,</l>
+               <l>The Weaver ſometimes teaches.</l>
+               <l>And Old Sir <hi>Symon</hi> the King.</l>
+            </lg>
+            <lg>
+               <l>The Siſters protles much,</l>
+               <l>Canarie-Birds imitating,</l>
+               <l>The Baker gets a Tubs,</l>
+               <l>And never holds his prating.</l>
+               <l>And Old Sir <hi>Symon</hi> the King.</l>
+            </lg>
+            <lg>
+               <l>We ſtuffe our guts with Capons,</l>
+               <l>Devotions but very ſmall,</l>
+               <l>The World we thus can flatter,</l>
+               <l>And ſay Devotions all.</l>
+               <l>With Old Sir <hi>Symon</hi> the King.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:109142:5"/>
+               <l>To Weſtminſter we trudge,</l>
+               <l>Each Man with a Bilbo blade,</l>
+               <l>At Night to Conventicles,</l>
+               <l>And ride like Hackney-Jade.</l>
+               <l>And Old Sir <hi>Symon</hi> the King.</l>
+            </lg>
+            <lg>
+               <l>The Miters from the Prelats</l>
+               <l>We will pull away,</l>
+               <l>No Man dare contradict,</l>
+               <l>Or once againſt it ſay.</l>
+               <l>Then Old Sir Symon the King.</l>
+            </lg>
+            <lg>
+               <l>The Divell hath left us his,</l>
+               <l>What is it we want at all,</l>
+               <l>Be ſtedfaſt ſiſter deare,</l>
+               <l>Although that <hi>Round-heads</hi> fall.</l>
+               <l>Then Old Sir <hi>Symon</hi> the King,</l>
+               <l>Then Old Sir <hi>Symon</hi> the King,</l>
+               <l>Wee'l have a thred bare Coat, and a Mamſie Noſe,</l>
+               <l>Sing hey ding ding a ding ding.</l>
+            </lg>
+            <sp>
+               <speaker>Clarke,</speaker>
+               <p>Peace and put out the Candles, you have gone a Note too high, lie all the Siſters downe, and ſtraine lower, <hi>procreandi cauſa.</hi>
+               </p>
+            </sp>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
